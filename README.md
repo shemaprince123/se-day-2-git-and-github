@@ -145,4 +145,3 @@ Forking creates a personal copy of a public repository in your GitHub account.
 - Use `.gitignore` to exclude unnecessary files.  
 - Regularly sync with the remote repository.  
 
-By following these guidelines, teams can maximize the benefits of Git and GitHub for seamless collaboration and version control.  
